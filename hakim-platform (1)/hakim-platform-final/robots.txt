@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /admin.html
-
-Sitemap: https://ahmed-programmer-1.github.io/carts/sitemap.xml
